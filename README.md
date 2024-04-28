@@ -38,7 +38,7 @@ This program is designed to extract email IDs, contact numbers, and overall text
 |--------------------|-----------------------------|--------------------|--------------|
 | AarushiRohatgi.pdf | aarushi.9999218543@gmail.com | 999-921-8543       | [Overall Text from AarushiRohatgi.pdf] |
 | AkashGoel.docx     | akashg2494@gmail.com        | 9310631244         | [Overall Text from AkashGoel.docx]     |
-| AkashSharma.pdf    | akashsharma1894@gmail.com   |                    | [Overall Text from AkashSharma.pdf]    |
+| AkashSharma.pdf    | akashsharma1894@gmail.com   | 8072458559         | [Overall Text from AkashSharma.pdf]    |
 | ...                | ...                         | ...                | ...          |
 
 ## Requirements
